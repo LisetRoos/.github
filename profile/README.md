@@ -30,4 +30,4 @@ Financial stability is key to maintaining and extending the projects and growing
 
 The Pendulum project is run by [Tweede golf](https://tweedegolf.nl/en).
 
-We thank [Prossimo](https://www.memorysafety.org/) and the [NLnet Foundation](https://nlnet.nl/) for their substantial support for the initial development.
+We thank [Prossimo](https://www.memorysafety.org/) and the [NLnet Foundation](https://nlnet.nl/) for their substantial support for the initial development. We are also grateful to [Sovereign Tech Fund](https://sovereigntechfund.de/en/) for their funding.
